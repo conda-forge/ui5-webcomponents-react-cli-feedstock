@@ -4,7 +4,7 @@
 
 [project]
 name = "ui5-webcomponents-react-cli-feedstock"
-version = "3.45.0"
+version = "3.45.2"
 description = "Pixi configuration for conda-forge/ui5-webcomponents-react-cli-feedstock"
 authors = ["@conda-forge/ui5-webcomponents-react-cli"]
 channels = ["conda-forge"]
