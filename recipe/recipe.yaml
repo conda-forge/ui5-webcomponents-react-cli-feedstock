@@ -1,5 +1,5 @@
 context:
-  version: "2.25.0"
+  version: "2.25.1"
 
 package:
   name: ui5-webcomponents-react-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@ui5/webcomponents-react-cli/-/webcomponents-react-cli-${{ version }}.tgz
-  sha256: 1f1c3e087ade959d4a20c9ce8f60a38f887f34e0d78d59857e856198365d3efc
+  sha256: 7fed62d032a1404cc6161f90ff3ee844de30c1df1a59c1f08f4ac7e3bab8de88
 
 build:
   number: 0
